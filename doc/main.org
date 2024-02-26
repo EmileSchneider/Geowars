@@ -1,0 +1,11 @@
+* Geowars
+A game about geometric warfare. Rise of the platonicons.
+
+** Dependencies
+- OpenGL
+- C++ 17
+- GLFW
+- GLEW
+- GLM
+
+** Program Structure
